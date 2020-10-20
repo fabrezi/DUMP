@@ -3,9 +3,17 @@ and content. To be is to do and we shall.
 Alan Turing problem of whether computer can think has led to the development of the field of aritificial intelligence. The most 
 important idea occurred in the field is ANN (artificial neural network). all known AI models are enhancements or extensions to ANN model.
 ----------------------------------------------------------------
+the fundamental of computation initiated by the following questions:
+1. what is computation --------> theory of computation, turing machine
+2. how to built a computer  ------------> computer architecture
+3. how does a machine computes ------> algorithms
+4. how to communicate with a machine ----------> programming language
+5. how does a machine thinks  -------------> artificial intellignece
+
 These are currently open research areas in the field:
 [1] I-POST: use of machine vision for commerce
 [2] BOLD: bayesian online liar detection
 [3] Ethereum smart contract
 [4] INS project
-[5] 
+[5] happy birthday attack **further development
+[6] dominating set problems
