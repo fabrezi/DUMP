@@ -1,2 +1,4 @@
 Computation is the extension of the human mind. It is the final frontier. To be here and research on computing topics make me solemn 
 and content. To be is to do and we shall.
+Alan Turing problem of whether computer can think has led to the development of the field of aritificial intelligence. The most 
+important idea occurred in the field is ANN (artificial neural network). all known AI models are enhancements or extensions to ANN model.
