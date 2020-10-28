@@ -4,11 +4,12 @@ Alan Turing problem of whether computer can think has led to the development of 
 important idea occurred in the field is ANN (artificial neural network). all known AI models are enhancements or extensions to ANN model.
 ----------------------------------------------------------------
 the fundamental of computation initiated by the following questions:
-1. what is computation --------> theory of computation, turing machine
-2. how to built a computer  ------------> computer architecture
-3. how does a machine computes ------> algorithms
-4. how to communicate with a machine ----------> programming language
-5. how does a machine thinks  -------------> artificial intellignece
+LO: what is A computer --------> theory of computation
+L1: how to built a computer  ------------> computer architecture
+L2: how does a machine computes ------> algorithms
+L3: how to communicate with a machine ----------> programming language
+L4: how does a machine thinks  -------------> artificial intellignece
+L5: how do I protect my computer -------------> cybersecurity
 
 These are currently open research areas in the field:
 [1] I-POST: use of machine vision for commerce
