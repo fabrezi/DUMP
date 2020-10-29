@@ -21,3 +21,11 @@ These are currently open research areas in the field:
 [8] electric lighter
 [9] Project-Firnas
 [10] Project-GlassFinance
+
+-----------------
+ATL-SE
+[1] Square
+[2] T-Mobile
+[3] Nvidia
+[4] Home Depot
+[5] 
