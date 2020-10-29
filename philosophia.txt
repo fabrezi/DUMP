@@ -19,3 +19,5 @@ These are currently open research areas in the field:
 [5] happy birthday attack 
 [6] snap app
 [7] ping pong: cmd prompt wth AI player
+[8] electric lighter
+[9] Project-Firnas
