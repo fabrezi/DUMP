@@ -14,10 +14,10 @@ L5: how do I protect my computer -------------> cybersecurity
 These are currently open research areas in the field:
 [1] I-POST: use of machine vision for commerce*
 [2] BOLD: bayesian online liar detection**
-[3] Ethereum smart contract
 [4] INS project
 [5] happy birthday attack 
 [6] snap app
 [7] ping pong: cmd prompt wth AI player
 [8] electric lighter
 [9] Project-Firnas
+[10] Project-GlassFinance
