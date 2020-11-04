@@ -27,4 +27,5 @@ ATL-SE
 [2] T-Mobile
 [3] Nvidia
 [4] Home Depot
-[5] 
+[5] Google
+[6] Oculus Rift
