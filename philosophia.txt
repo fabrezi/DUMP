@@ -8,9 +8,8 @@ LO: what is A computer --------> theory of computation
 L1: how to built a computer  ------------> computer architecture
 L2: how does a machine computes ------> algorithms
 L3: how to communicate with a machine ----------> programming language
-L4: how does a machine thinks  -------------> artificial intellignece
-L5: how do I protect my computer -------------> cybersecurity
-
+L4: how to share file from one node to another ------> network
+---------------------------------------------------------------------
 These are currently open research areas in the field:
 [1] I-POST: use of machine vision for commerce*
 [2] BOLD: bayesian online liar detection**
