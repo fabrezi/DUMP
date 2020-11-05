@@ -9,7 +9,7 @@ starts at some place. my does here. sitting in a small room. tiny room. A softwa
 Focus on the fundamental of computation. Learn to code effectively. then you can move on to advance areas, such as: 
 machine learning. 
 #Bootcamp Train: Goal: SE
-- Architecture
+- Architecture - Java (Programming Priniciple) - Algorithms (6.006) - Network - ML.
 # Computer Abstraction and technology
 # assembly language, logic design
 - Java Programming
