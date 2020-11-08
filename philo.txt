@@ -35,10 +35,13 @@ These are currently open research areas in the field:
 [10] Project-GlassFinance
 
 -----------------
-ATL-SE
-[1] Square
-[2] T-Mobile
-[3] Nvidia
-[4] Home Depot
-[5] Google
-[6] Oculus Rift
+Q. How do you write a conference paper?
+A. the following are the portions which makes a conference paper:
+
+1. what is the problem statement. what is the problem that you are trying to solve. write in detail.
+2. prior- solution
+3. Solution porposal - create a solution that you think will be able to tackle (1). use imagination.
+4. algorithm - this is tricky but you must create a good alg. 
+5. Implementation - code, graph, data process, performance chart
+6. ?
+7. conclusion - future work, conclude, references
