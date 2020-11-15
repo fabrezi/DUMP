@@ -51,4 +51,10 @@ Skills for B.E:
 2. Solidity
 3. Publication: USENIX, IEEE S&P, ACM CCS
 4. Docker
-5. 
+----------------------------------------------------------
+Android:
+- Java, Kotlin
+- REST API
+- Javascript()
+- RXJAVA, Dagger
+- MVVM framework, MVC framework
