@@ -45,3 +45,9 @@ A. the following are the portions which makes a conference paper:
 5. mathematical formulation
 6. Implementation - code, graph, data process, performance chart
 7. conclusion - future work, conclude, references
+----------------------------------------------------------
+Skills for B.E:
+1. Java, Go
+2. Solidity
+3. Publication: USENIX, IEEE S&P, ACM CCS
+4. Docker
