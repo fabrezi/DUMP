@@ -58,3 +58,5 @@ Android:
 - Javascript()
 - RXJAVA, Dagger
 - MVVM framework, MVC framework
+-----------------------------------
+key to learning: discipline,no-mod, code 
