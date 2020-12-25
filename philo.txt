@@ -42,6 +42,8 @@ A. the following are the portions which makes a conference paper:
 5. mathematical formulation/ architecture model
 6. Implementation - code, graph, data process, performance chart
 7. conclusion - future work, conclude, references
+there is a technique to write technical ppr. most of them follow a standard made by IEEE or springer. a good ppr is one with
+good results. rest are details. make the caption text of labels for a picture accessible. reading it must be simple.
 ----------------------------------------------------------
 Skills for B.E:
 1. Java, Go, Spring boot
