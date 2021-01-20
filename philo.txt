@@ -58,4 +58,12 @@ Android:
 - RXJAVA, Dagger
 - MVVM framework, MVC framework
 -----------------------------------
-
+Just as there are seven stages of coding so there were seven sages of coding: << aron swartz, geohot, richard gayler, >>
+it is considered that there are seven stages to programming/ coding:
+L0: no experience
+L1: newbie
+L2: amateur
+L3: associate
+L4: adjunct
+L5: Senior
+L6: Master
