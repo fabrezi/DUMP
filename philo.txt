@@ -60,10 +60,12 @@ Android:
 -----------------------------------
 Just as there are seven stages of coding so there were seven sages of coding: << aron swartz, geohot, richard gayler, >>
 it is considered that there are seven stages to programming/ coding:
-L0: no experience
-L1: newbie
-L2: amateur
-L3: associate
-L4: adjunct
-L5: Senior
-L6: Master
+Software is the component of the computer that lies between harware and user. a better definition is required.
+
+L0: newbie
+L1: amateur
+L2: intern
+L3: cadet
+L4: major
+L5: general
+L6: King
