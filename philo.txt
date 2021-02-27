@@ -71,4 +71,11 @@ L4: major
 L5: general
 L6: King
 ---------------------------------------------------------------------------------------------
+In industry there are four types of developers. This can be illustrated as a matrix (speed, quality):
+turtle: (slow, high)
+unicorn: (fast,high)
+cowboy: (fast,low)
+microsoft: (slow,low)
+**try to be a cowboy. Heha!!
+----------------------------------
 
