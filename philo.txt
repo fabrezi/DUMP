@@ -78,4 +78,7 @@ cowboy: (fast,low)
 microsoft: (slow,low)
 **try to be a cowboy. Heha!!
 ----------------------------------
+--------------------------------------
+------------------------------------
+I started programming in  python. One must develop an ability to think in terms of code, then one must learn the syntax and structure of the language. 
 
