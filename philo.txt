@@ -81,4 +81,11 @@ microsoft: (slow,low)
 --------------------------------------
 ------------------------------------
 I started programming in  python. One must develop an ability to think in terms of code, then one must learn the syntax and structure of the language. 
+#####################################
+#
+#############################
+Upper bound: possible, algorithms, good news
+include: Euclid, Newton, Guass, Hilbert
 
+Lower Bound: impossible, hardness, bad news
+include: Abel, Galois, Godel, Turing
