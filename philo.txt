@@ -89,3 +89,11 @@ include: Euclid, Newton, Guass, Hilbert
 
 Lower Bound: impossible, hardness, bad news
 include: Abel, Galois, Godel, Turing
+########################################
+open projects:: try them:
+- build a private communication app// similar to sms but through IP address
+- build a distributed video sharing website
+- project- snappo
+- how to provide security in cloud processes
+- research on tensor processing units
+- 
