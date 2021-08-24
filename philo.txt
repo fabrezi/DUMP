@@ -3,6 +3,9 @@ GLOSSARY:
 1. Bootloader: 
 2. WebRTC:
 3. netcat:
+4. json
+5. rmi
+6. java odbc
 
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
@@ -18,14 +21,6 @@ Software will eat the world and i want a chunk of the meal. My training has been
 #You must first focus on the fundamentals. Any thing that needs to be mastered must start from the roots. Else you be lost. 
 Focus on the fundamental of computation. Learn to code effectively. then you can move on to advance areas, such as: 
 machine learning. 
-#Bootcamp Train: Goal: SE
-- Architecture - Java (Programming Priniciple) - Algorithms (6.006)
-#advanced topics:
-- ML. - Blockchain
-# Computer Abstraction and technology
-# assembly language, logic design
-- Java Programming
-- Algorithm <mighty book>
 ----------------------------------------------------------------
 the fundamental of computation initiated by the following questions:
 LO: what is A computer --------> theory of computation
@@ -34,13 +29,7 @@ L2: how does a machine computes ------> algorithms
 L3: how to communicate with a machine ----------> programming language
 L4: how to share file from one node to another ------> network
 ---------------------------------------------------------------------
-These are currently open research areas in the field:
-- BOLD: bayesian online liar detection**
-- INS project
-- happy birthday attack 
-- snap app: snippo*
-- Project-Firnas
-- Project-GlassFinance
+
 -----------------
 Q. How do you write a conference paper?
 A. the following are the portions which makes a conference paper:
