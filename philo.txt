@@ -77,8 +77,6 @@ microsoft: (slow,low)
 **try to be a cowboy. Heha!!
 ----------------------------------
 --------------------------------------
-------------------------------------
-I started programming in  python. One must develop an ability to think in terms of code, then one must learn the syntax and structure of the language. 
 #####################################
 #
 #############################
@@ -88,10 +86,4 @@ include: Euclid, Newton, Guass, Hilbert
 Lower Bound: impossible, hardness, bad news
 include: Abel, Galois, Godel, Turing
 ########################################
-open projects:: try them:
-- build a private communication app// similar to sms but through IP address
-- build a distributed video sharing website
-- project- snappo
-- how to provide security in cloud processes
-- research on tensor processing units
-- 
+Programming is hard. Thats the first thing to learn. You must do it everyday, all day, no stop. Until you become competent.
