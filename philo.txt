@@ -93,3 +93,6 @@ Programming is hard. Thats the first thing to learn. You must do it everyday, al
 :Operation Wandering Soul
 :The task at hand is to learn Java ecosystem. This includes spring, maven, tomcat etc. Lets first learn to use Git command.
 
+:10/04/2021:
+Random checklist to study on:: -Understand the server- client relation. - REST architecture revise - Spring annotation (wtf?)
+- learn to fucking git properly
