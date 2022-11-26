@@ -11,3 +11,5 @@ these are some links to informative things related to technology:
 4. https://wcedmisten.fyi/post/self-hosting-osm/
 
 5. https://nikodunk.com/a-node-js-developer-discovers-rails
+
+6. https://people.csail.mit.edu/bkph/ftmrtt
