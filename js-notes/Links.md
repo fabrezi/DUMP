@@ -17,3 +17,5 @@ these are some links to informative things related to technology:
 7. https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/
 
 8. https://tmewett.com/c-tips/
+
+- https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html
