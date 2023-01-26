@@ -96,3 +96,7 @@ Programming is hard. Thats the first thing to learn. You must do it everyday, al
 :10/04/2021:
 Random checklist to study on:: -Understand the server- client relation. - REST architecture revise - Spring annotation (wtf?)
 - learn to fucking git properly
+
+: Geek Quotes
+- Every programmar starts as a video game developer.
+- C is the mother of all modern languages.
