@@ -13,6 +13,7 @@ random papers/ articles i found of interest.
    - https://ybogomolov.me/making-illegal-states-unrepresentable/
    - https://docs.python.org/3/library/typing.html#typing.NamedTuple
    - https://docs.python.org/3/library/typing.html#typing.TypedDict
+   - https://peps.python.org/pep-0483/
 
 - gnus-email: https://gluer.org/blog/2023/trying-gnus-as-an-email-client/
 
