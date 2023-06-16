@@ -13,6 +13,8 @@ random papers/ articles i found of interest.
 
 - gnus-email: https://gluer.org/blog/2023/trying-gnus-as-an-email-client/
 
-- darkBErt: https://arxiv.org/abs/2305.08596
+- darkBErt: https://arxiv.org/abs/2305.08596:
+   - https://huggingface.co/huggingface
+   - https://proceedings.neurips.cc/paper/2019/file/bdbca288fee7f92f2bfa9f7012727740-Paper.pdf
 
 - music-lang: https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf
