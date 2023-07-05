@@ -25,3 +25,7 @@ random papers/ articles i found of interest.
 - music-lang: https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf
    - https://www.cs.toronto.edu/~chechik/courses18/csc2125/paper13.pdf
    - https://wiki.c2.com/?UnixDesignPhilosophy
+
+## Miscelleanous
+
+- https://www.linkedin.com/in/billboulden/details/experience/
