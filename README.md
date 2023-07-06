@@ -30,3 +30,6 @@ random papers/ articles i found of interest.
 
 - https://www.linkedin.com/in/billboulden/details/experience/
 - [games](https://www.engineersneedart.com/blog/samestop/samestop.html)
+-[postgres-distinct](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
+- [pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
+- [Lehman-Law](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
