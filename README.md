@@ -29,3 +29,4 @@ random papers/ articles i found of interest.
 ## Miscelleanous
 
 - https://www.linkedin.com/in/billboulden/details/experience/
+- [games](https://www.engineersneedart.com/blog/samestop/samestop.html)
