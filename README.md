@@ -35,3 +35,4 @@ random papers/ articles i found of interest.
 - [Lehman-Law](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 - [factorials](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 - [wrong-programming-history](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
+- [Transformer](https://jalammar.github.io/illustrated-transformer/)
