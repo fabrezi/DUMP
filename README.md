@@ -26,6 +26,9 @@ random papers/ articles i found of interest.
    - https://www.cs.toronto.edu/~chechik/courses18/csc2125/paper13.pdf
    - https://wiki.c2.com/?UnixDesignPhilosophy
 
+- Postgres
+  - [advanced-search](https://xata.io/blog/postgres-full-text-search-engine)
+
 ## Miscelleanous
 
 - https://www.linkedin.com/in/billboulden/details/experience/
@@ -37,3 +40,4 @@ random papers/ articles i found of interest.
 - [wrong-programming-history](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 - [Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [ATSC 3-Advertisements](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
+- [Qt](https://en.wikipedia.org/wiki/Qt_(software))
