@@ -41,6 +41,7 @@ random papers/ articles i found of interest.
 - [Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [ATSC 3-Advertisements](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
 - [Qt](https://en.wikipedia.org/wiki/Qt_(software))
+- [Startup_fail](https://longform.asmartbear.com/problem/)
 
 ## Classic Mechnics
 
