@@ -42,7 +42,9 @@ random papers/ articles i found of interest.
 - [ATSC 3-Advertisements](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
 - [Qt](https://en.wikipedia.org/wiki/Qt_(software))
 - [Startup_fail](https://longform.asmartbear.com/problem/)
+- [mo-html](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 
 ## Classic Mechnics
 
 - (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
+- (https://arxiv.org/pdf/2308.05660.pdf)
