@@ -43,6 +43,9 @@ random papers/ articles i found of interest.
 - [Qt](https://en.wikipedia.org/wiki/Qt_(software))
 - [Startup_fail](https://longform.asmartbear.com/problem/)
 - [mo-html](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
+- [py-code=problems](https://wsdookadr.github.io/posts/p10/)
+-[llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
+- [functional-language](https://dreamsongs.com/Files/clos-cacm.pdf)
 
 ## Classic Mechnics
 
