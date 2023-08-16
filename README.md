@@ -46,6 +46,7 @@ random papers/ articles i found of interest.
 - [py-code=problems](https://wsdookadr.github.io/posts/p10/)
 -[llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 - [functional-language](https://dreamsongs.com/Files/clos-cacm.pdf)
+- [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 
 ## Classic Mechnics
 
