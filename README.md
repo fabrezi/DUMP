@@ -47,8 +47,10 @@ random papers/ articles i found of interest.
 -[llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 - [functional-language](https://dreamsongs.com/Files/clos-cacm.pdf)
 - [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
+- [langChain](https://www.langchain.com/)
+- [Py-Need-to-use](https://minepi.com/developers/why-build-on-pi/)
 
-## Classic Mechnics
+## Classic Mechanics
 
 - (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
 - (https://arxiv.org/pdf/2308.05660.pdf)
