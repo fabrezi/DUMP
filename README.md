@@ -49,6 +49,7 @@ random papers/ articles i found of interest.
 - [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 - [langChain](https://www.langchain.com/)
 - [Py-Need-to-use](https://minepi.com/developers/why-build-on-pi/)
+- [GPU vs CPU](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning)
 
 ## Classic Mechanics
 
