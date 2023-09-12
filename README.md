@@ -50,6 +50,7 @@ random papers/ articles i found of interest.
 - [langChain](https://www.langchain.com/)
 - [Py-Need-to-use](https://minepi.com/developers/why-build-on-pi/)
 - [GPU vs CPU](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning)
+- [cur](https://antonz.org/mastering-curl/)
 
 ## Classic Mechanics
 
