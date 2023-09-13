@@ -1,5 +1,5 @@
 # DUMP
-random papers/ articles i found of interest.
+random papers/ articles I found of interest.
 
 ### Reading List
 
