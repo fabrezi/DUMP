@@ -57,6 +57,7 @@ random papers/ articles i found of interest.
 
 - (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
 - (https://arxiv.org/pdf/2308.05660.pdf)
+- [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
 ## Software Architecture
 - [Reactive](https://www.reactivemanifesto.org/)
