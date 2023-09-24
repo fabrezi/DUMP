@@ -52,6 +52,7 @@ random papers/ articles I found of interest.
 - [GPU vs CPU](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning)
 - [cur](https://antonz.org/mastering-curl/)
 - [cookies](https://www.quirksmode.org/js/cookies.html)
+- [volunteer](https://www.madhousers.net/)
 
 ## Classic Mechanics
 
