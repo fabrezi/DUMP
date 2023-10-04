@@ -53,6 +53,7 @@ random papers/ articles I found of interest.
 - [cur](https://antonz.org/mastering-curl/)
 - [cookies](https://www.quirksmode.org/js/cookies.html)
 - [volunteer](https://www.madhousers.net/)
+- [llm-space-time](https://arxiv.org/pdf/2310.02207.pdf)
 
 ## Classic Mechanics
 
