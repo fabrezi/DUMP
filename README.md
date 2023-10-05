@@ -3,6 +3,8 @@ random papers/ articles I found of interest.
 
 ### Reading List
 
+- [Tao](https://www.mit.edu/~xela/tao.html "philosophy of programming in terms of Tao")
+
 - https://jacquesmattheij.com/journeyman-project-trip-1-united-kingdom/
 
 - https://www.deusinmachina.net/p/geek-mythology-the-religious-and
