@@ -56,6 +56,7 @@ random papers/ articles I found of interest.
 - [cookies](https://www.quirksmode.org/js/cookies.html)
 - [volunteer](https://www.madhousers.net/)
 - [llm-space-time](https://arxiv.org/pdf/2310.02207.pdf)
+- [chess-engine-js](https://vole.wtf/kilobytes-gambit/)
 
 ## Classic Mechanics
 
