@@ -35,7 +35,7 @@ random papers/ articles I found of interest.
 
 - https://www.linkedin.com/in/billboulden/details/experience/
 - [games](https://www.engineersneedart.com/blog/samestop/samestop.html)
--[postgres-distinct](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
+- [postgres-distinct](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 - [pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 - [Lehman-Law](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 - [factorials](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
@@ -46,21 +46,27 @@ random papers/ articles I found of interest.
 - [Startup_fail](https://longform.asmartbear.com/problem/)
 - [mo-html](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 - [py-code=problems](https://wsdookadr.github.io/posts/p10/)
--[llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 - [functional-language](https://dreamsongs.com/Files/clos-cacm.pdf)
 - [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
-- [langChain](https://www.langchain.com/)
 - [Py-Need-to-use](https://minepi.com/developers/why-build-on-pi/)
 - [GPU vs CPU](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning)
 - [cur](https://antonz.org/mastering-curl/)
 - [cookies](https://www.quirksmode.org/js/cookies.html)
 - [volunteer](https://www.madhousers.net/)
-- [llm-space-time](https://arxiv.org/pdf/2310.02207.pdf)
 - [chess-engine-js](https://vole.wtf/kilobytes-gambit/)
 
 ## Classic Mechanics
 
 - (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
+
+## NLP
+
+- [self-correct](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
+- [llm-space-time](https://arxiv.org/pdf/2310.02207.pdf)
+- [langChain](https://www.langchain.com/)
+- [llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
+
+
 - (https://arxiv.org/pdf/2308.05660.pdf)
 - [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
