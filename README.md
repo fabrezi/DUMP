@@ -54,6 +54,7 @@ random papers/ articles I found of interest.
 - [cookies](https://www.quirksmode.org/js/cookies.html)
 - [volunteer](https://www.madhousers.net/)
 - [chess-engine-js](https://vole.wtf/kilobytes-gambit/)
+- [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
 
 ## Classic Mechanics
 
