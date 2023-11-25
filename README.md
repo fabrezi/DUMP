@@ -55,6 +55,7 @@ random papers/ articles I found of interest.
 - [volunteer](https://www.madhousers.net/)
 - [chess-engine-js](https://vole.wtf/kilobytes-gambit/)
 - [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
+- [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 
 ## Classic Mechanics
 
