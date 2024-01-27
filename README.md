@@ -74,3 +74,8 @@ random papers/ articles I found of interest.
 
 ## Software Architecture
 - [Reactive](https://www.reactivemanifesto.org/)
+
+## ALL STAR ARTICLES
+
+- [AWS_ONE_LINER](https://adayinthelifeof.nl/2020/05/20/aws.html)
+- [CARGO_CULT](https://dl.acm.org/doi/pdf/10.1145/3595860)
