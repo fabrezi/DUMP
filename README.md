@@ -42,7 +42,6 @@ random papers/ articles I found of interest.
 - [Lehman-Law](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 - [factorials](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 - [wrong-programming-history](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
-- [Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [ATSC 3-Advertisements](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
 - [Qt](https://en.wikipedia.org/wiki/Qt_(software))
 - [Startup_fail](https://longform.asmartbear.com/problem/)
@@ -58,7 +57,7 @@ random papers/ articles I found of interest.
 - [chess-engine-js](https://vole.wtf/kilobytes-gambit/)
 - [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-- [LLM-Hallucination](https://arxiv.org/pdf/2401.11817.pdf)
+- [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
 
 ## Classic Mechanics
 
@@ -70,6 +69,8 @@ random papers/ articles I found of interest.
 - [llm-space-time](https://arxiv.org/pdf/2310.02207.pdf)
 - [langChain](https://www.langchain.com/)
 - [llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
+- [LLM-Hallucination](https://arxiv.org/pdf/2401.11817.pdf)
+- [Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 
 - (https://arxiv.org/pdf/2308.05660.pdf)
