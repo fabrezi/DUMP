@@ -58,6 +58,7 @@ random papers/ articles I found of interest.
 - [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
+- [Lampson-1999](https://danluu.com/butler-lampson-1999/)
 
 ## Classic Mechanics
 
