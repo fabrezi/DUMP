@@ -63,6 +63,7 @@ random papers/ articles I found of interest.
 ## Classic Mechanics
 
 - (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
+- [Meissner-Effect](https://en.wikipedia.org/wiki/Meissner_effect)
 
 ## NLP
 
