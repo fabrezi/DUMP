@@ -59,6 +59,7 @@ random papers/ articles I found of interest.
 - [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
 - [Lampson-1999](https://danluu.com/butler-lampson-1999/)
+- [Knuth-Sports](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 
 ## Classic Mechanics
 
