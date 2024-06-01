@@ -81,6 +81,7 @@ random papers/ articles I found of interest.
 
 ## Software Architecture
 - [Reactive](https://www.reactivemanifesto.org/)
+- [SOLID/DRY/KISS](https://scalastic.io/en/solid-dry-kiss/#solid)
 
 ## ALL STAR ARTICLES
 
