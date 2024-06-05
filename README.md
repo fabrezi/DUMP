@@ -60,6 +60,7 @@ random papers/ articles I found of interest.
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
 - [Lampson-1999](https://danluu.com/butler-lampson-1999/)
 - [Knuth-Sports](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
+- [Burritos](https://blog.plover.com/prog/burritos.html)
 
 ## Classic Mechanics
 
@@ -74,6 +75,7 @@ random papers/ articles I found of interest.
 - [llm-numbers](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 - [LLM-Hallucination](https://arxiv.org/pdf/2401.11817.pdf)
 - [Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Build-LLM](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 
 
 - (https://arxiv.org/pdf/2308.05660.pdf)
