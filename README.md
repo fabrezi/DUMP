@@ -3,10 +3,6 @@ random papers/ articles I found of interest.
 
 ### Reading List
 
-- [Tao](https://www.mit.edu/~xela/tao.html "philosophy of programming in terms of Tao")
-
-- https://jacquesmattheij.com/journeyman-project-trip-1-united-kingdom/
-
 - https://www.deusinmachina.net/p/geek-mythology-the-religious-and
 
 - JS article: https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42
@@ -90,3 +86,5 @@ random papers/ articles I found of interest.
 
 - [AWS_ONE_LINER](https://adayinthelifeof.nl/2020/05/20/aws.html)
 - [CARGO_CULT](https://dl.acm.org/doi/pdf/10.1145/3595860)
+- [Journeyman](https://jacquesmattheij.com/journeyman-project-trip-1-united-kingdom/)
+- [Tao](https://www.mit.edu/~xela/tao.html "philosophy of programming in terms of Tao")
