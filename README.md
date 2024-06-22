@@ -61,6 +61,7 @@ random papers/ articles I found of interest.
 - [Lampson-1999](https://danluu.com/butler-lampson-1999/)
 - [Knuth-Sports](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 - [Burritos](https://blog.plover.com/prog/burritos.html)
+- [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 
 ## Classic Mechanics
 
