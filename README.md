@@ -1,37 +1,13 @@
 # DUMP
 random papers/ articles I found of interest.
 
-### Reading List
+## Reading List
 
-- https://www.deusinmachina.net/p/geek-mythology-the-religious-and
-
-- JS article: https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42
-
+- [JS article](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
 - [C-compiler-in-Browser](https://lupyuen.codeberg.page/articles/tcc.html)
-
-- Rust: https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
-   - https://ybogomolov.me/making-illegal-states-unrepresentable/
-   - https://docs.python.org/3/library/typing.html#typing.NamedTuple
-   - https://docs.python.org/3/library/typing.html#typing.TypedDict
-   - https://peps.python.org/pep-0483/
-
-- gnus-email: https://gluer.org/blog/2023/trying-gnus-as-an-email-client/
-
-- darkBErt: https://arxiv.org/abs/2305.08596:
-   - https://huggingface.co/huggingface
-   - https://proceedings.neurips.cc/paper/2019/file/bdbca288fee7f92f2bfa9f7012727740-Paper.pdf
-   - https://gvis.unileon.es/dataset/duta-darknet-usage-text-addresses-10k/
-
-- music-lang: https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf
-   - https://www.cs.toronto.edu/~chechik/courses18/csc2125/paper13.pdf
-   - https://wiki.c2.com/?UnixDesignPhilosophy
-
-- Postgres
-  - [advanced-search](https://xata.io/blog/postgres-full-text-search-engine)
-
-## Miscelleanous
-
-- https://www.linkedin.com/in/billboulden/details/experience/
+- [gnus-email](https://gluer.org/blog/2023/trying-gnus-as-an-email-client/)
+- [music-lang](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
+- [PG-advanced-search](https://xata.io/blog/postgres-full-text-search-engine)
 - [games](https://www.engineersneedart.com/blog/samestop/samestop.html)
 - [postgres-distinct](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 - [pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
@@ -60,8 +36,9 @@ random papers/ articles I found of interest.
 - [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 - [Selfhost-OpenMaps](https://wcedmisten.fyi/post/self-hosting-osm/)
 - [AI-garbage](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
+- [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
-## Classic Mechanics
+## Physics
 
 - (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
 - [Meissner-Effect](https://en.wikipedia.org/wiki/Meissner_effect)
@@ -75,8 +52,7 @@ random papers/ articles I found of interest.
 - [LLM-Hallucination](https://arxiv.org/pdf/2401.11817.pdf)
 - [Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Build-LLM](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
-- (https://arxiv.org/pdf/2308.05660.pdf)
-- [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+
 
 ## Software Architecture
 - [Reactive](https://www.reactivemanifesto.org/)
@@ -88,3 +64,4 @@ random papers/ articles I found of interest.
 - [CARGO_CULT](https://dl.acm.org/doi/pdf/10.1145/3595860)
 - [Journeyman](https://jacquesmattheij.com/journeyman-project-trip-1-united-kingdom/)
 - [Tao](https://www.mit.edu/~xela/tao.html "philosophy of programming in terms of Tao")
+- [Theist-Machina](https://www.deusinmachina.net/p/geek-mythology-the-religious-and)
