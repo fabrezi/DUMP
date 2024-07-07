@@ -20,12 +20,10 @@ random papers/ articles I found of interest.
 - [mo-html](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 - [py-code=problems](https://wsdookadr.github.io/posts/p10/)
 - [functional-language](https://dreamsongs.com/Files/clos-cacm.pdf)
-- [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 - [Py-Need-to-use](https://minepi.com/developers/why-build-on-pi/)
 - [GPU vs CPU](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning)
 - [cur](https://antonz.org/mastering-curl/)
 - [cookies](https://www.quirksmode.org/js/cookies.html)
-- [volunteer](https://www.madhousers.net/)
 - [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
@@ -35,12 +33,13 @@ random papers/ articles I found of interest.
 - [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 - [Selfhost-OpenMaps](https://wcedmisten.fyi/post/self-hosting-osm/)
 - [AI-garbage](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
-- [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+
 
 ## Physics
 
-- (https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
+- [Violation-Newton-Mechanics](https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
 - [Meissner-Effect](https://en.wikipedia.org/wiki/Meissner_effect)
+- [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
 ## NLP
 
@@ -54,6 +53,7 @@ random papers/ articles I found of interest.
 
 
 ## Software Architecture
+
 - [Reactive](https://www.reactivemanifesto.org/)
 - [SOLID/DRY/KISS](https://scalastic.io/en/solid-dry-kiss/#solid)
 
