@@ -26,7 +26,6 @@ random papers/ articles I found of interest.
 - [cur](https://antonz.org/mastering-curl/)
 - [cookies](https://www.quirksmode.org/js/cookies.html)
 - [volunteer](https://www.madhousers.net/)
-- [chess-engine-js](https://vole.wtf/kilobytes-gambit/)
 - [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
