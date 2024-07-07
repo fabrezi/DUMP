@@ -58,6 +58,8 @@ random papers/ articles I found of interest.
 - [Knuth-Sports](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 - [Burritos](https://blog.plover.com/prog/burritos.html)
 - [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
+- [Selfhost-OpenMaps](https://wcedmisten.fyi/post/self-hosting-osm/)
+- [AI-garbage](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
 
 ## Classic Mechanics
 
@@ -73,8 +75,6 @@ random papers/ articles I found of interest.
 - [LLM-Hallucination](https://arxiv.org/pdf/2401.11817.pdf)
 - [Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Build-LLM](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
-
-
 - (https://arxiv.org/pdf/2308.05660.pdf)
 - [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
