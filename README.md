@@ -64,3 +64,4 @@ random papers/ articles I found of interest.
 - [Journeyman](https://jacquesmattheij.com/journeyman-project-trip-1-united-kingdom/)
 - [Tao](https://www.mit.edu/~xela/tao.html)
 - [Theist-Machina](https://www.deusinmachina.net/p/geek-mythology-the-religious-and)
+- [Hack-Scripts](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)
