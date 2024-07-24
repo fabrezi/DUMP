@@ -33,6 +33,7 @@ random papers/ articles I found of interest.
 - [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 - [Selfhost-OpenMaps](https://wcedmisten.fyi/post/self-hosting-osm/)
 - [AI-garbage](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
+- [Bubble-Sort](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
 
 
 ## Physics
