@@ -41,6 +41,7 @@ random papers/ articles I found of interest.
 - [Violation-Newton-Mechanics](https://sites.pitt.edu/~jdnorton/Goodies/Dome/) //fault of Newton law 1
 - [Meissner-Effect](https://en.wikipedia.org/wiki/Meissner_effect)
 - [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+- [Pi^2=g](https://roitman.io/blog/91)
 
 ## NLP
 
