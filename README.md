@@ -26,7 +26,6 @@ random papers/ articles I found of interest.
 - [cookies](https://www.quirksmode.org/js/cookies.html)
 - [browser-debug-techniques](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [godel-proofs](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-- [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
 - [Lampson-1999](https://danluu.com/butler-lampson-1999/)
 - [Knuth-Sports](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 - [Burritos](https://blog.plover.com/prog/burritos.html)
@@ -63,6 +62,7 @@ random papers/ articles I found of interest.
 
 - [JS article](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
 - [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
+- [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
 
 ## ALL STAR ARTICLES
 
