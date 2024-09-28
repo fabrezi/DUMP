@@ -1,9 +1,9 @@
 # DUMP
 random papers/ articles I found of interest.
 
-## Reading List
+## Random Reading List
 
-- [JS article](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
+
 - [C-compiler-in-Browser](https://lupyuen.codeberg.page/articles/tcc.html)
 - [gnus-email](https://gluer.org/blog/2023/trying-gnus-as-an-email-client/)
 - [music-lang](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
@@ -30,7 +30,6 @@ random papers/ articles I found of interest.
 - [Lampson-1999](https://danluu.com/butler-lampson-1999/)
 - [Knuth-Sports](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 - [Burritos](https://blog.plover.com/prog/burritos.html)
-- [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 - [Selfhost-OpenMaps](https://wcedmisten.fyi/post/self-hosting-osm/)
 - [AI-garbage](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
 - [Bubble-Sort](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
@@ -58,6 +57,11 @@ random papers/ articles I found of interest.
 
 - [Reactive](https://www.reactivemanifesto.org/)
 - [SOLID/DRY/KISS](https://scalastic.io/en/solid-dry-kiss/#solid)
+
+## Javascript 
+
+- [JS article](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
+- [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 
 ## ALL STAR ARTICLES
 
