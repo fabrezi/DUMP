@@ -33,6 +33,7 @@ random papers/ articles I found of interest.
 - [Selfhost-OpenMaps](https://wcedmisten.fyi/post/self-hosting-osm/)
 - [AI-garbage](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
 - [Bubble-Sort](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
+- [Fix-Bug-Google-Chrome](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 
 
 ## Physics
