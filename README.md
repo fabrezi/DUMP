@@ -63,6 +63,7 @@ random papers/ articles I found of interest.
 - [JS article](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
 - [CommonJS_vs_ES6](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
+- [Ruby vs Node](https://nikodunk.com/a-node-js-developer-discovers-rails)
 
 ## ALL STAR ARTICLES
 
