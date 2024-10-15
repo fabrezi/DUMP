@@ -41,6 +41,7 @@ random papers/ articles I found of interest.
 - [Meissner-Effect](https://en.wikipedia.org/wiki/Meissner_effect)
 - [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 - [Pi^2=g](https://roitman.io/blog/91)
+- [Holograms-3D](https://mattferraro.dev/posts/caustics-engineering)
 
 ## NLP
 
