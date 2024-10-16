@@ -52,6 +52,7 @@ random papers/ articles I found of interest.
 - [LLM-Hallucination](https://arxiv.org/pdf/2401.11817.pdf)
 - [Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Build-LLM](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
+- [Run-llm-locally](https://www.nature.com/articles/d41586-024-02998-y)
 
 
 ## Software Architecture
