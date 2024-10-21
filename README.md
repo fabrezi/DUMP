@@ -42,6 +42,7 @@ random papers/ articles I found of interest.
 - [Cargo-Cult-Feynmann](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 - [Pi^2=g](https://roitman.io/blog/91)
 - [Holograms-3D](https://mattferraro.dev/posts/caustics-engineering)
+- [Physics-AGI](https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/)
 
 ## NLP
 
