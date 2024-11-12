@@ -34,7 +34,7 @@ random papers/ articles I found of interest.
 - [Bubble-Sort](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
 - [Fix-Bug-Google-Chrome](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 - [100-top-gamers](https://www.ign.com/top/game-creators/10.html)
-
+- [List-of-programming-lang](https://yoric.github.io/post/programming-languages-that-blew-my-mind/_)
 
 ## Physics
 
