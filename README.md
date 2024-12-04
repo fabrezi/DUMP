@@ -69,6 +69,7 @@ random papers/ articles I found of interest.
 - [Typescript-Hypermedia](https://www.daniellittle.dev/type-safe-hypermedia-controls)
 - [Ruby vs Node](https://nikodunk.com/a-node-js-developer-discovers-rails)
 - [JS-front-end-test-skills](https://bigfrontend.dev/problem/implement-curry)
+- [React-sucks](https://infrequently.org/2024/11/if-not-react-then-what/)
 
 ## ALL STAR ARTICLES
 
