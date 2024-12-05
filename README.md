@@ -61,6 +61,7 @@ random papers/ articles I found of interest.
 
 - [Reactive](https://www.reactivemanifesto.org/)
 - [SOLID/DRY/KISS](https://scalastic.io/en/solid-dry-kiss/#solid)
+- [CalWin](https://infrequently.org/2024/08/object-lesson/)
 
 ## Javascript 
 
