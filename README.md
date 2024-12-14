@@ -44,6 +44,7 @@ random papers/ articles I found of interest.
 - [Pi^2=g](https://roitman.io/blog/91)
 - [Holograms-3D](https://mattferraro.dev/posts/caustics-engineering)
 - [Physics-AGI](https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/)
+- [Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 
 ## NLP
 
