@@ -35,6 +35,8 @@ random papers/ articles I found of interest.
 - [Fix-Bug-Google-Chrome](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 - [100-top-gamers](https://www.ign.com/top/game-creators/10.html)
 - [List-of-programming-lang](https://yoric.github.io/post/programming-languages-that-blew-my-mind/_)
+- [Turing-machine-simple](https://samwho.dev/turing-machines/)
+- [Measure-Intelligence](https://arxiv.org/pdf/1911.01547)
 
 ## Physics
 
@@ -81,5 +83,4 @@ random papers/ articles I found of interest.
 - [Tao](https://www.mit.edu/~xela/tao.html)
 - [Theist-Machina](https://www.deusinmachina.net/p/geek-mythology-the-religious-and)
 - [Hack-Scripts](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)
-- [Turing-machine-simple](https://samwho.dev/turing-machines/)
-- [Measure-Intelligence](https://arxiv.org/pdf/1911.01547)
+
