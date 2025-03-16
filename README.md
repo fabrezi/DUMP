@@ -47,6 +47,7 @@ random papers/ articles I found of interest.
 - [Holograms-3D](https://mattferraro.dev/posts/caustics-engineering)
 - [Physics-AGI](https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/)
 - [Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
+- [Measure-Earth-Radius](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 
 ## NLP
 
