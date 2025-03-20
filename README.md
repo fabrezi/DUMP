@@ -37,6 +37,7 @@ random papers/ articles I found of interest.
 - [List-of-programming-lang](https://yoric.github.io/post/programming-languages-that-blew-my-mind/_)
 - [Turing-machine-simple](https://samwho.dev/turing-machines/)
 - [Measure-Intelligence](https://arxiv.org/pdf/1911.01547)
+- [khair-list](https://khair-list.alwasila.org/)
 
 ## Physics
 
