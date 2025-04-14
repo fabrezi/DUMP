@@ -49,6 +49,7 @@ random papers/ articles I found of interest.
 - [Physics-AGI](https://web.archive.org/web/20210123234450/https://blogs.princeton.edu/imabandit/)
 - [Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 - [Measure-Earth-Radius](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
+- (Mechanical_Gravity](https://en.wikipedia.org/wiki/Mechanical_explanations_of_gravitation)
 
 ## NLP
 
