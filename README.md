@@ -85,4 +85,5 @@ random papers/ articles I found of interest.
 - [Tao](https://www.mit.edu/~xela/tao.html)
 - [Theist-Machina](https://www.deusinmachina.net/p/geek-mythology-the-religious-and)
 - [Hack-Scripts](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)
+- [Norvig](https://norvig.com/21-days.html)
 
