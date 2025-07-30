@@ -38,6 +38,7 @@ random papers/ articles I found of interest.
 - [Turing-machine-simple](https://samwho.dev/turing-machines/)
 - [Measure-Intelligence](https://arxiv.org/pdf/1911.01547)
 - [khair-list](https://khair-list.alwasila.org/)
+- [Postgres-slow](https://byteofdev.com/posts/making-postgres-slow/)
 
 ## Physics
 
