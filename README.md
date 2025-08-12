@@ -39,6 +39,7 @@ random papers/ articles I found of interest.
 - [Measure-Intelligence](https://arxiv.org/pdf/1911.01547)
 - [khair-list](https://khair-list.alwasila.org/)
 - [Postgres-slow](https://byteofdev.com/posts/making-postgres-slow/)
+- [Python-slow](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 
 ## Physics
 
