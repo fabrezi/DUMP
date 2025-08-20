@@ -88,4 +88,5 @@ random papers/ articles I found of interest.
 - [Theist-Machina](https://www.deusinmachina.net/p/geek-mythology-the-religious-and)
 - [Hack-Scripts](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)
 - [Norvig](https://norvig.com/21-days.html)
+- [Working-Big-Company](https://churchofturing.github.io/the-enterprise-experience.html)
 
