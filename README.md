@@ -80,6 +80,7 @@ random papers/ articles I found of interest.
 - [Ruby vs Node](https://nikodunk.com/a-node-js-developer-discovers-rails)
 - [JS-front-end-test-skills](https://bigfrontend.dev/problem/implement-curry)
 - [React-sucks](https://infrequently.org/2024/11/if-not-react-then-what/)
+- [use-html](https://justfuckingusehtml.com/)
 
 ## ALL STAR ARTICLES
 
