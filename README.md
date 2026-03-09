@@ -88,6 +88,7 @@ random papers/ articles I found of interest.
 - [CARGO_CULT](https://dl.acm.org/doi/pdf/10.1145/3595860)
 - [Journeyman](https://jacquesmattheij.com/journeyman-project-trip-1-united-kingdom/)
 - [Tao](https://www.mit.edu/~xela/tao.html)
+- [Epstein-emails](https://jmail.world/)
 - [Theist-Machina](https://www.deusinmachina.net/p/geek-mythology-the-religious-and)
 - [Hack-Scripts](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)
 - [Norvig](https://norvig.com/21-days.html)
